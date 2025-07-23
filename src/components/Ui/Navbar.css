@@ -74,11 +74,11 @@ nav{
     outline:1px solid #1863B0;
 }
 .user-icon img{
-    width:100%;
-    height:100%;
+    min-width:100%;
+    height:auto;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
 }
 .activeNav{
     color:#1863B0;
